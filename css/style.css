@@ -1,0 +1,42 @@
+.header-bg-color{
+    background-color: #f8f9fa;
+}
+.panda-bg-color{
+    background-color: #fceae8;
+}
+.slider img{
+    border-style: none;
+    vertical-align: middle;
+    width: 100%;
+}
+.categories img{
+    width: 100px;
+    /* border-style: none;
+    vertical-align: middle; */
+}
+.btn-bg-color{
+    /* background-color: #ff418c;
+    color: white; */
+    /* background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); */
+    background-color: #ff418c;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.greater-icon{
+    color: white;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
